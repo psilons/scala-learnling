@@ -3,12 +3,12 @@
 ## pom.xml
 Specify dependencies and plugins:
 - scala-library
-- scala-maven-plugin and maven-assembly-plugin
+- scala-maven-plugin and maven-assembly-plugin, for building the jar file.
 
 ## Simple main App
 Run from
 - IntelliJ
-- Maven: use scala2-learning-1.0.0-SNAPSHOT-jar-with-dependencies.jar
+- Maven: use scala2-maven-intellij-1.0.0-SNAPSHOT-jar-with-dependencies.jar
 
 ## Unit Tests
 There are several Scala testing frameworks:
