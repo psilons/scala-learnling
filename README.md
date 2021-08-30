@@ -5,6 +5,12 @@ Specify dependencies and plugins:
 - scala-library
 - scala-maven-plugin and maven-assembly-plugin, for building the jar file.
 
+## IntelliJ
+File | New | Project from existing source, select the pom file.
+
+Right mouse click project name in the left project panel(top line) and set the
+JDK.
+
 ## Simple main App
 Run from
 - IntelliJ
