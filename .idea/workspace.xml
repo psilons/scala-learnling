@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="718e7d3a-c655-428e-8f74-96772dfb6a92" name="Changes" comment="" />
+    <list default="true" id="718e7d3a-c655-428e-8f74-96772dfb6a92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +41,7 @@
     <property name="project.structure.side.proportion" value="0.22171113" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MySimpleApp">
+  <component name="RunManager" selected="ScalaTest.MySimpleServiceTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -209,8 +213,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MySimpleApp" />
         <item itemvalue="ScalaTest.MySimpleServiceTest" />
+        <item itemvalue="Application.MySimpleApp" />
       </list>
     </recent_temporary>
   </component>
@@ -222,11 +226,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630336752841</updated>
-      <workItem from="1630336755060" duration="262000" />
+      <workItem from="1630336755060" duration="14304000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scala2_maven_intellij$MySimpleServiceTest.ic" NAME="MySimpleServiceTest Coverage Results" MODIFIED="1630346718663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
