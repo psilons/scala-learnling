@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="718e7d3a-c655-428e-8f74-96772dfb6a92" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     <property name="project.structure.side.proportion" value="0.22171113" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="ScalaTest.MySimpleServiceTest">
+  <component name="RunManager" selected="Application.MySimpleApp">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -213,8 +211,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.MySimpleServiceTest" />
         <item itemvalue="Application.MySimpleApp" />
+        <item itemvalue="ScalaTest.MySimpleServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630336752841</updated>
-      <workItem from="1630336755060" duration="14304000" />
+      <workItem from="1630336755060" duration="19497000" />
     </task>
     <servers />
   </component>
