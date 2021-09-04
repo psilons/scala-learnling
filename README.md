@@ -31,6 +31,8 @@ Create a class MySimpleSerivce and its test MySimpleServiceTest
 
 Test it with IntelliJ and mvn clean package
 
+https://www.baeldung.com/scala/scalatest
+
 ## Test Coverage
 
 - https://stackoverflow.com/questions/54185459/how-to-generate-both-jacoco-and-scoverage-reports-with-maven-in-a-single-jenkins
@@ -43,7 +45,8 @@ Add org.scalatestplus.mockito-3-4_2.13 dependency to the pom.xml, then use it in
 
 - https://www.scalatest.org/plus/mockito
 - https://alvinalexander.com/scala/how-to-use-mock-objects-with-scalatest/
-
+- https://medium.com/@bruno.bonanno/introduction-to-mockito-scala-ede30769cbda
+- https://scalamock.org/
 ## Style Check
 
 
@@ -56,5 +59,6 @@ Add org.scalatestplus.mockito-3-4_2.13 dependency to the pom.xml, then use it in
 Mix Java and Scala
 https://davidb.github.io/scala-maven-plugin/example_java.html
 
+https://blog.knoldus.com/maven-plugins-for-scala-code-quality/
 
 https://books.sonatype.com/mcookbook/reference/sect-scala-script-inline.html
